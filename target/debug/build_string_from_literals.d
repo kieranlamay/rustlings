@@ -1,0 +1,1 @@
+/Users/kieranlamay/RustroverProjects/Learn\ Rust/target/debug/build_string_from_literals: /Users/kieranlamay/RustroverProjects/Learn\ Rust/Understanding\ Ownership/What\ is\ ownership/Build\ String\ from\ Literals/src/main.rs

@@ -1,0 +1,1 @@
+/Users/kieranlamay/RustroverProjects/Learn\ Rust/target/debug/color_structs: /Users/kieranlamay/RustroverProjects/Learn\ Rust/Structs,\ Methods,\ Enums,\ and\ Pattern\ Matching/Structs/Play\ with\ Color\ Structs/src/main.rs
